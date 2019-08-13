@@ -66,9 +66,9 @@
             <key>address</key>
             <string>WOb5</string>
             <key>lat</key>
-            <string></string>
+            <string>52.419410</string>
             <key>long</key>
-            <string></string>
+            <string>10.723822</string>
             <key>email</key>
             <string>test1@vw-servicepartner.com</string>
             <key>phonenumber</key>
@@ -80,9 +80,9 @@
             <key>address</key>
             <string>WOb6</string>
             <key>lat</key>
-            <string></string>
+            <string>52.419765</string>
             <key>long</key>
-            <string></string>
+            <string>10.724531</string>
             <key>email</key>
             <string>test6@vw-servicepartner.com</string>
             <key>phonenumber</key>
@@ -94,9 +94,9 @@
             <key>address</key>
             <string>WOb7</string>
             <key>lat</key>
-            <string></string>
+            <string>52.420015</string>
             <key>long</key>
-            <string></string>
+            <string>10.720717</string>
             <key>email</key>
             <string>test7@vw-servicepartner.com</string>
             <key>phonenumber</key>
@@ -108,13 +108,13 @@
             <key>address</key>
             <string>WOb8</string>
             <key>lat</key>
-            <string></string>
+            <string>52.418992</string>
             <key>long</key>
             <string></string>
             <key>email</key>
             <string>test8@vw-servicepartner.com</string>
             <key>phonenumber</key>
-            <string></string>
+            <string>10.722644</string>
         </dict>
 	</array>
 </dict>

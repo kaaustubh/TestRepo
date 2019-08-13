@@ -14,6 +14,7 @@
 		5120E5DE2302EE630069FB3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5120E5DC2302EE630069FB3F /* LaunchScreen.storyboard */; };
 		5120E5E62302F1130069FB3F /* ServicePartner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5120E5E52302F1130069FB3F /* ServicePartner.swift */; };
 		513BE4462302F3FB00F7C5C9 /* Dealers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 513BE4452302F3FB00F7C5C9 /* Dealers.plist */; };
+		513BE4482302F7E000F7C5C9 /* ServicePartnerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513BE4472302F7E000F7C5C9 /* ServicePartnerManager.swift */; };
 		88E3FC80435892F07FAFC1A2 /* libPods-TestApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D90AF99FD006359A9E1298B /* libPods-TestApp.a */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		5120E5E52302F1130069FB3F /* ServicePartner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicePartner.swift; sourceTree = "<group>"; };
 		5120E5E72302F1FB0069FB3F /* TestApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestApp-Bridging-Header.h"; sourceTree = "<group>"; };
 		513BE4452302F3FB00F7C5C9 /* Dealers.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Dealers.plist; sourceTree = "<group>"; };
+		513BE4472302F7E000F7C5C9 /* ServicePartnerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicePartnerManager.swift; sourceTree = "<group>"; };
 		A6F22A819498CE0D355368BC /* Pods-TestApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestApp.release.xcconfig"; path = "Target Support Files/Pods-TestApp/Pods-TestApp.release.xcconfig"; sourceTree = "<group>"; };
 		FFF90681A2C26DD6A566F612 /* Pods-TestApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestApp.debug.xcconfig"; path = "Target Support Files/Pods-TestApp/Pods-TestApp.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,6 +77,7 @@
 				5120E5DF2302EE630069FB3F /* Info.plist */,
 				5120E5E52302F1130069FB3F /* ServicePartner.swift */,
 				5120E5E72302F1FB0069FB3F /* TestApp-Bridging-Header.h */,
+				513BE4472302F7E000F7C5C9 /* ServicePartnerManager.swift */,
 			);
 			path = TestApp;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			files = (
 				5120E5D62302EE620069FB3F /* ViewController.swift in Sources */,
 				5120E5D42302EE620069FB3F /* AppDelegate.swift in Sources */,
+				513BE4482302F7E000F7C5C9 /* ServicePartnerManager.swift in Sources */,
 				5120E5E62302F1130069FB3F /* ServicePartner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
